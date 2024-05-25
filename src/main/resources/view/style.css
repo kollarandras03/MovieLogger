@@ -1,0 +1,20 @@
+.cus{
+    -fx-font: 16px "Serif";
+    -fx-padding: 10;
+    -fx-background-color: #CCFF99;
+}
+
+.button-12 {
+  -fx-display: flex;
+  -fx-flex-direction: column;
+  -fx-align-items: center;
+  -fx-padding: 6px 14px;
+  -fx-font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  -fx-border-radius: 6px;
+  -fx-border: none;
+
+  -fx-background-color: #6E6D70;
+  -fx-focus-color: #ffffff;
+  -fx-faint-focus-color: #ffffff;
+
+}
